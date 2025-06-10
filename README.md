@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/7afb578a-eb57-46ab-a52d-a2c26eb3fa58)
+
+
+
+
+
 **Business Problem**
 
 Effective inventory and sales management are critical for optimizing
